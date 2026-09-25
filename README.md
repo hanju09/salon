@@ -9,7 +9,7 @@ A Bash script that acts as a simple salon booking system, backed by a PostgreSQL
 - If the phone isn't in the database, asks for their name and saves the new customer
 - Asks for the appointment time
 - Books the appointment and confirms it back to the user
-
+ 
 ## The database
 
 Three tables:
